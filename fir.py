@@ -4,3 +4,4 @@ print(a+b)
 c=6
 res=a+b+c
 print(c)
+print("hi")
